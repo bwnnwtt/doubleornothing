@@ -1,3 +1,10 @@
+## Submission Details
+Refer to project README in [./anchor_project/README.md](./anchor_project/README.md)
+
+Refer to frontend deployment link in [./frontend/README.md](./frontend/README.md)
+
+-----
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OqQl59jg)
 ![School of Solana](https://github.com/School-of-Solana/.github/blob/main/assets/Season-5-Banner.png?raw=true)
 
